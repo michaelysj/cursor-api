@@ -41,7 +41,7 @@ def_header_value!(
     not_a_brand => "\"Not-A.Brand\";v=\"99\", \"Chromium\";v=\"124\"",
     mobile_no => "?0",
     windows => "\"Windows\"",
-    ua_cursor => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Cursor/0.42.5 Chrome/124.0.6367.243 Electron/30.4.0 Safari/537.36",
+    ua_cursor => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Cursor/0.48.7 Chrome/124.0.6367.243 Electron/30.4.0 Safari/537.36",
     vscode_origin => "vscode-file://vscode-app",
     cross_site => "cross-site",
     gzip_deflate => "gzip, deflate",
