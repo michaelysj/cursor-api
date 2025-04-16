@@ -112,7 +112,7 @@ pub fn build_request(req: AiServiceRequest) -> RequestBuilder {
         )
         .header(header_name_client_key(), req.client_key)
         .header(header_name_cursor_checksum(), req.checksum)
-        .header(header_name_cursor_client_version(), "0.42.5")
+        .header(header_name_cursor_client_version(), "0.48.7")
         .header(header_name_cursor_timezone(), req.timezone)
         .header(header_name_ghost_mode(), TRUE)
         .header(header_name_request_id(), req.trace_id)
